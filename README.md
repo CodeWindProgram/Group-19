@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+## Problem Statement :-
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## To develop a Assignment module page 
+#The info on how we created the front-end
+hi, I  IamHarsh02 -patareharsh@gmail.com
+ Before uploading  the final pages for our module , I did the following tasks:
+ *Made a front-end of students dashboard where the new assignments will be visible when students click on dashboard in navbar 
+ view assigment button will be there where students  have to click on view assignmnets and assignment file will be downloaded .  
+ *did the same for faculty  when they click on dashboard the subject teacher can upload assignments .
+ also created the upload assigment form for stduents to upload the assigmnets form  *which  will be visible when students click on upload assignment button 
+*created an atractive home page for students & faculty.
 
-### `npm start`
+@BhaveshPujari- bhaveshpujari2000@gmail.com         I created  attractive  progrees pages for students & faculty members .
+*students progrees will be vissible in % format  and the same will be visible for faculty 
+the students progress page will display when students /faculy click on  students progrees button  present on dashboard
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+@praticksonawane  - praticksonawane@ternaengg.ac.in  I Created the student submission page which will be visble only to faculty 
+*the student submission page consist of names of students and there status= submited/Not submited 
+this will only display when faculty member logs on to the page 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+@AtharvPande   - I Created the database back-end part in postgreessql
+i installed postgreessql on my pc and created the schema 
+created the tables for students and faculty 
+designed the foreign key  for our module and disscused the final design of our pages on the bases of this @IamHarsh created the pages 
 
-### `npm test`
+#Things we Installed to make this react js module 
+1.NODE JS 
+2.React VERSION ^17.0.2
+3.Bootstrap ^5.0.2"
+4.Visual Studio Code as text editor
+5.postgreessql
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+##Issue with  our Module:
+Although  Less people contributed in our  module we did whatever we could do
+we dont know how to link pages to database  so we did our best to create static pages.
+so far we did the front-end part .
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#Members contibuted
+.@IamHarsh -patareharsh@gmail.com
+.@BhaveshPujari- bhaveshpujari2000@gmail.com 
+.praticksonawane@ternaengg.ac.in
+.@AtharvPande 
+##Thank you.
