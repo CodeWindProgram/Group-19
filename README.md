@@ -2,7 +2,7 @@
 
 
 
-## To develop a Assignment module page 
+# To develop a Assignment module page 
 #The info on how we created the front-end
 hi, I  IamHarsh02 -patareharsh@gmail.com
  Before uploading  the final pages for our module , I did the following tasks:
