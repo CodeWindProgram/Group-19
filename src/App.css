@@ -1,0 +1,29 @@
+
+.primary{
+color :black;
+background-color:cornflowerblue;
+text-align: center;
+}
+.buttons{
+text-align: center;
+
+}
+.progress_cbox1{
+ height: 39px;
+ width: 100px;
+}
+.progress_cbox2{
+    height: 39px;
+    width: 500px;
+   }
+   .progress_cbox3{
+    height: 39px;
+    width: 600px;
+   }
+   .progress_cbox4{
+    height: 39px;
+    width: 900px;
+   }
+   .back{
+       background-color:gray ;
+   }
