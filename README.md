@@ -14,7 +14,7 @@ To develop a Assignment module page
  3. The students progress page will display when students /faculy click on  students progrees button  present on dashboard.
 
 
-- @pratiksonawane  - pratiksonawane@ternaengg.ac.in  
+- @Amdxsb  - pratiksonawane@ternaengg.ac.in  
  1. I Created the student submission page which will be visble only to faculty 
  2. The student submission page consist of names of students and there status= submited/Not submited 
     this will only display when faculty member logs on to the page 
