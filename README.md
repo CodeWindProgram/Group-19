@@ -25,7 +25,7 @@ To develop a Assignment module page
  2. Installed postgressql.
  3. Created various tables in database.
  4. Created constraints (foreign key, primary key, etc.)
- 5. Created queru to extract data.
+ 5. Created query to extract data.
 
 
 
