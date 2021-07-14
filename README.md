@@ -16,7 +16,7 @@ hi, I  IamHarsh02 -patareharsh@gmail.com
 *students progrees will be vissible in % format  and the same will be visible for faculty 
 the students progress page will display when students /faculy click on  students progrees button  present on dashboard
 
-@praticksonawane  - praticksonawane@ternaengg.ac.in  I Created the student submission page which will be visble only to faculty 
+@pratiksonawane  - pratiksonawane@ternaengg.ac.in  I Created the student submission page which will be visble only to faculty 
 *the student submission page consist of names of students and there status= submited/Not submited 
 this will only display when faculty member logs on to the page 
 
@@ -41,6 +41,6 @@ so far we did the front-end part .
 #Members contibuted
 .@IamHarsh -patareharsh@gmail.com
 .@BhaveshPujari- bhaveshpujari2000@gmail.com 
-.praticksonawane@ternaengg.ac.in
+.pratiksonawane@ternaengg.ac.in
 .@AtharvPande 
 ##Thank you.
