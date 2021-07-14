@@ -20,10 +20,12 @@ the students progress page will display when students /faculy click on  students
 *the student submission page consist of names of students and there status= submited/Not submited 
 this will only display when faculty member logs on to the page 
 
-@AtharvPande   - I Created the database back-end part in postgreessql
-i installed postgreessql on my pc and created the schema 
-created the tables for students and faculty 
-designed the foreign key  for our module and disscused the final design of our pages on the bases of this @IamHarsh created the pages 
+- @AtharvPande - atharv12348@gmail.com
+ 1. Created batabase schematics on the basis of which @IamHarsh created the pages.
+ 2. Installed postgressql.
+ 3. Created various tables in database.
+ 4. Created constraints (foreign key, primary key, etc.)
+ 5. Created queru to extract data.
 
 #Things we Installed to make this react js module 
 1.NODE JS 
