@@ -2,7 +2,7 @@
 To develop a Assignment module page 
 
 
-- @IamHarsh02 - patareharsh@gmail.com
+- @IamHarsh02 - harshpatare@ternaengg.ac.in
  1. Made a front-end of students dashboard where the new assignments will be visible when students click on dashboard in navbar view assigment button will be there where students  have to click on view assignmnets and assignment file will be downloaded.
  2. Did the same for faculty  when they click on dashboard the subject teacher can upload assignments. Also created the upload assigment form for stduents to upload the assigmnets form  .
  3. Created an atractive home page for students & faculty.
