@@ -27,7 +27,10 @@ To develop a Assignment module page
  4. Created constraints (foreign key, primary key, etc.)
  5. Created query to extract data.
 
-
+- @Aniket455 - aniketsgupta0302@gmail.com
+1. Conducted few meeting with the teammates and helped in developing the schema regarding the project.
+2. Gathered example and discussed on overall design of the pageswith the teammates.
+3. Helped in designing the overall page.
 
 Things we Installed to make this react js module 
 1.NODE JS 
